@@ -1,5 +1,5 @@
 # Short summary
-<required2>
+<required>
 
 # Type
 <!-- Required. Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
