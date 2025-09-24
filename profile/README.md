@@ -1,1 +1,1 @@
-todo Add information about Techyon
+The Techyon platform for nano products
